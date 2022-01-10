@@ -1,0 +1,15 @@
+{
+  "name": "rainbow-role-main",
+  "version": "1.0.0",
+  "description": "![image](https://user-images.githubusercontent.com/71920969/117990890-7dca9880-b335-11eb-9887-d4ace3bd4643.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.1"
+  }
+}
